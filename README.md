@@ -12,6 +12,7 @@ More information about me in <a href="https://www.linkedin.com/in/micaela-gimene
    <br>
      ◦ <a href="https://github.com/micaelagimenez/genderidentifier">Name Gender Identifier</a>: An algorithm that uses the last letter of the name to predict the gender.
   <br>
+  <br>
   <li>R</li>
       ◦ <a href="https://github.com/micaelagimenez/World-Tsunamis">World Tsunamis</a>: Interactive global map that shows tsunamis occurred between years 46-2014</dd>
 </ul>
