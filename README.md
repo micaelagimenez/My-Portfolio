@@ -6,7 +6,7 @@ More information about me in <a href="https://www.linkedin.com/in/micaela-gimene
 ## Projects
 <ul>
   <li>Python</li>
-
+      ◦<a href="https://github.com/micaelagimenez/textanalysis">Text Analysis</a>
   <li>R</li>
-  -<a href="https://github.com/micaelagimenez/World-Tsunamis">World Tsunamis</a>: Interactive global map that shows tsunamis occurred between years 46-2014</dd>
+      ◦<a href="https://github.com/micaelagimenez/World-Tsunamis">World Tsunamis</a>: Interactive global map that shows tsunamis occurred between years 46-2014</dd>
 </ul>
