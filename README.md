@@ -29,4 +29,6 @@ More information about me in <a href="https://www.linkedin.com/in/micaela-gimene
  <li><b>R</b></li>
  <br>
       ◦ <a href="https://github.com/micaelagimenez/World-Tsunamis">World Tsunamis</a>: Interactive global map that shows tsunamis occurred between years 46-2014</dd>
+      <br>
+      ◦ <a href="https://github.com/micaelagimenez/CrimeinAtlanta">Crime in Atlanta</a>: An R Markdown showing crime in Atlanta between 2009-2017.</dd>
 </ul>
