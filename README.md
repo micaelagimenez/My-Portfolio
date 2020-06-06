@@ -2,6 +2,7 @@
 Portfolio including my projects for self-learning.
 
 More information about me in <a href="https://www.linkedin.com/in/micaela-gimenez-2135a112b/">LinkedIn</a>
+This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where you can check out my R Markdowns.
 
 ## Projects
  <ul>
