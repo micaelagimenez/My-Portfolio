@@ -15,7 +15,7 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
  <br>
 <li><b>Data Visualization</b></li>
  <br>
-      ◦ <a href="https://github.com/micaelagimenez/movies-analysis">Movies Analysis</a>: Data visualisation of movies in letterboxd.
+      ◦ <a href="https://github.com/micaelagimenez/movies-analysis">Movies Analysis</a>: Data visualization of movies watched in letterboxd.
       <br>
  <br>
  <li><b>NLP</b></li>
