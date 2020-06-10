@@ -13,6 +13,11 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
       ◦ <a href="https://github.com/micaelagimenez/tweepybot">Tweepy Bot</a>: Gets streaming tweets related to climate change.
     <br> 
  <br>
+<li><b>Data Visualization</b></li>
+ <br>
+      ◦ <a href="https://github.com/micaelagimenez/movies-analysis">Movies Analysis</a>: Data visualisation of movies in letterboxd.
+      <br>
+ <br>
  <li><b>NLP</b></li>
  <br>
       ◦ <a href="https://github.com/micaelagimenez/textanalysis">Text Analysis</a>: Linguistic analysis of the first paragraph from Anna Karenina. Most of frequent words, stemming, lemmatization, part of speech tagging, sentiment polarity and subjectivity, named entity recognition.
