@@ -38,4 +38,6 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
       ◦ <a href="https://github.com/micaelagimenez/World-Tsunamis">World Tsunamis</a>: Interactive global map that shows tsunamis occurred between years 46-2014</dd>
       <br>
       ◦ <a href="https://github.com/micaelagimenez/CrimeinAtlanta">Crime in Atlanta</a>: An R Markdown showing crime in Atlanta between 2009-2017.</dd>
+      ◦ <a href="https://github.com/micaelagimenez/sentimentanalysis">Sentiment Analysis</a>:Sentiment Analysis of This side of Paradise and The beautiful and the damned by F. Scott Fitzgerald.</dd>
+      <br>
 </ul>
