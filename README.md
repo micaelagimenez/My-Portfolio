@@ -17,7 +17,7 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
  <br>
       ◦ <a href="https://github.com/micaelagimenez/movies-analysis">Movies Analysis</a>: Data visualization of movies watched in letterboxd.
       <br>
-      ◦ <a href="https://github.com/micaelagimenez/surveyanalysis">Survet Analysis</a>: Data analysis of a survey.
+      ◦ <a href="https://github.com/micaelagimenez/surveyanalysis">Survey Analysis</a>: Data analysis of a survey.
       <br>
 
  <br>
