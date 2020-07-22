@@ -13,10 +13,13 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
       ◦ <a href="https://github.com/micaelagimenez/tweepybot">Tweepy Bot</a>: Gets streaming tweets related to climate change.
     <br> 
  <br>
-<li><b>Data Visualization</b></li>
+<li><b>Data Analysis and Visualization</b></li>
  <br>
       ◦ <a href="https://github.com/micaelagimenez/movies-analysis">Movies Analysis</a>: Data visualization of movies watched in letterboxd.
       <br>
+      ◦ <a href="https://github.com/micaelagimenez/surveyanalysis">Survet Analysis</a>: Data analysis of a survey.
+      <br>
+
  <br>
  <li><b>NLP</b></li>
  <br>
