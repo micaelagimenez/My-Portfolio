@@ -9,6 +9,7 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
  <li><b>Django</b></li><br>
     ◦ <a href="https://github.com/micaelagimenez/ghiblimovs">Ghibli Search Engine</a>: Gets any Ghibli Studios movie by searching its title, release date, and director, by using the Ghibli API. 
  <br>
+ <br>
  <li><b>Web Scraping</b></li>
  <br>
       ◦ <a href="https://github.com/micaelagimenez/webscraper1">Web Scraper</a>: Gets the latest jobs from bumeran.com.ar specifying title of the job, company and location.
