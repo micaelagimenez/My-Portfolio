@@ -12,7 +12,6 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
  <br>
   ◦ <a href="https://github.com/micaelagimenez/todoapp">To-Do App</a>: Django To-do App.
  <br>
- <br>
  <li><b>Web Scraping</b></li>
  <br>
       ◦ <a href="https://github.com/micaelagimenez/webscraper1">Web Scraper</a>: Gets the latest jobs from bumeran.com.ar specifying title of the job, company and location.
