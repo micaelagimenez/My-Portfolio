@@ -7,6 +7,8 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
 ## Projects
  <ul>
  <li><b>Django</b></li><br>
+    ◦ <a href="https://github.com/micaelagimenez/animesearch">Anime Website</a>: Django website that uses https://jikan.moe/ API to retrieve animes from the website MyAnimeList. User can register and login. 
+ <br>
     ◦ <a href="https://github.com/micaelagimenez/ghiblimovs">Ghibli Search Engine</a>: Gets any Ghibli Studios movie by searching its title, release date, and director, by using the Ghibli API. 
  <br>
   ◦ <a href="https://github.com/micaelagimenez/todoapp">To-Do App</a>: Django To-do App.
