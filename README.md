@@ -11,7 +11,7 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
  <br>
     ◦ <a href="https://github.com/micaelagimenez/animesearch">Anime Website</a>: Django website that uses https://jikan.moe/ API to retrieve animes from the website MyAnimeList. User can register and login. 
  <br>
-    ◦ <a href="https://github.com/micaelagimenez/ghiblimovs">Ghibli Search Engine</a>: Gets any Ghibli Studios movie by searching its title, release date, and director, by using the Ghibli API. Frontend built with HTML and CSS. Website is live at <a href="https://ghiblimovs.herokuapp.com">
+    ◦ <a href="https://github.com/micaelagimenez/ghiblimovs">Ghibli Search Engine</a>: Gets any Ghibli Studios movie by searching its title, release date, and director, by using the Ghibli API. Frontend built with HTML and CSS. Website was deployed with Heroku and is live at <a href="https://ghiblimovs.herokuapp.com">Ghiblimovs</a>
  <br>
   ◦ <a href="https://github.com/micaelagimenez/todoapp">To-Do App</a>: Django To-do App.
  <br>
