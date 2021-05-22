@@ -45,7 +45,7 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
      ◦ <a href="https://github.com/micaelagimenez/text_summarization">Text Summarization</a>: Text summarization of a scraped website with beautifulsoup4 and nltk.
   <br>
      ◦ <a href="https://github.com/micaelagimenez/fakenewsdetector">Fake News Detector</a>: Jupyter markdown that allows to detect fake news using Naive Bayes Classification.
-  <br>
+  <br><br>
  <li><b>R</b></li>
  <br>
       ◦ <a href="https://github.com/micaelagimenez/World-Tsunamis">World Tsunamis</a>: Interactive global map that shows tsunamis occurred between years 46-2014</dd>
