@@ -7,9 +7,11 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
 ## Projects
  <ul>
  <li><b>Django</b></li><br>
+    ◦ <a href="https://github.com/micaelagimenez/MoviesAppDRF">DRF Movie App</a>: DRF app allows the user to register and login so that they can can search for their favorite movies and characters. Users can also control CRUD functions for both movies and characters.
+ <br>
     ◦ <a href="https://github.com/micaelagimenez/animesearch">Anime Website</a>: Django website that uses https://jikan.moe/ API to retrieve animes from the website MyAnimeList. User can register and login. 
  <br>
-    ◦ <a href="https://github.com/micaelagimenez/ghiblimovs">Ghibli Search Engine</a>: Gets any Ghibli Studios movie by searching its title, release date, and director, by using the Ghibli API. 
+    ◦ <a href="https://github.com/micaelagimenez/ghiblimovs">Ghibli Search Engine</a>: Gets any Ghibli Studios movie by searching its title, release date, and director, by using the Ghibli API. Frontend built with HTML and CSS. Website is live at <a href="https://ghiblimovs.herokuapp.com">
  <br>
   ◦ <a href="https://github.com/micaelagimenez/todoapp">To-Do App</a>: Django To-do App.
  <br>
