@@ -9,6 +9,7 @@ This is my <a href="https://rpubs.com/micaelagimenez">RPubs account</a> where yo
  <li><b>Android (Kotlin)</b></li><br>
  ◦ <a href="https://github.com/micaelagimenez/KotlinMovieApp">Android Movie App</a>: Simple movie app written in Kotlin and using MVVM architecture that consults the public API The Movie Database (TMDb).
  <br>
+ <br>
  <li><b>Django</b></li><br>
     ◦ <a href="https://github.com/micaelagimenez/MoviesAppDRF">DRF Movie App</a>: DRF app that allows the user to register and login so that they can can search for their favorite movies and characters. Users can also control CRUD functions for both movies and characters.
  <br>
